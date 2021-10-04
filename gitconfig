@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = russo.giu@outlook.comn
+	name = Giuseppe Russo
